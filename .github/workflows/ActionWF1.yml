@@ -10,6 +10,9 @@ on:
        - main
        - dev 
        - test 
+  issues:
+    types:
+      - opened
  
 
   # Allows you to run this workflow manually from the Actions tab
